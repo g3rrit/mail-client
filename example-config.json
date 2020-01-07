@@ -1,0 +1,12 @@
+{ 
+	"ImapServer" : "www.imap.com",
+	"ImapPort" : "993",
+	"SmtpServer" : "www.smtp.com",
+	"SmtpPort" : "993",
+	"User" : "user",
+	"Mail" : "user@mail.com",
+	"Pw" : "pw",
+	"Maildir" : "~/mail"
+}
+
+
